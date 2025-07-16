@@ -1,0 +1,3 @@
+[submodule "house-price-mlflow"]
+	path = house-price-mlflow
+	url = https://github.com/TazmeenAfroz/house-price-mlflow.git
