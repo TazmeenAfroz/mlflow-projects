@@ -14,7 +14,7 @@ This repository contains multiple projects demonstrating how to use **MLflow** f
 This repository acts as an umbrella for different MLflow projects:
 - ✅ **Getting Started with MLflow (Iris Dataset)** – See `getting_started.ipynb`
 - ✅ **House Price Prediction with MLflow** – [View Submodule](https://github.com/TazmeenAfroz/house-price-mlflow)
-- ⏳ More projects will be added soon.
+- - ✅ **Life Expectancy Prediction with MLflow** – [View Submodule](https://github.com/TazmeenAfroz/Life-Expectancy-Prediction-With-MLflow)
 
 ---
 
