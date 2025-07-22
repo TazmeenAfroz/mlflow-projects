@@ -1,3 +1,6 @@
 [submodule "house-price-mlflow"]
 	path = house-price-mlflow
 	url = https://github.com/TazmeenAfroz/house-price-mlflow.git
+[submodule "Life-Expectancy-Prediction-With-MLflow"]
+	path = Life-Expectancy-Prediction-With-MLflow
+	url = https://github.com/TazmeenAfroz/Life-Expectancy-Prediction-With-MLflow.git
